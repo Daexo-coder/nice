@@ -1,0 +1,77 @@
+li {
+    display: inline-block ;
+    text-decoration: none;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    color: white;
+    font-size: large;
+}
+ul {
+    text-align: center;
+    padding: 0;
+}
+nav {
+    background-color: black;
+    padding: 1rem;
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: normal;
+}
+.a {
+    background-color: rgb(149, 151, 155) ;
+    padding: 0.5rem;
+}
+h2 {
+    background-color:  rgb(149, 151, 155);
+    padding-bottom: 0;
+    padding: -1rem;
+    border: 2px;
+    border-bottom: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight: normal;
+}
+ul :hover {
+    color: black;
+    background-color: white;
+    background-size: 2rem 2rem;
+}
+.cont {
+    padding: 5rem;
+    flex-direction: row;
+    padding-left: 11rem;
+    padding-right: 11rem;
+    display: flex;
+    margin: 0;
+    margin-left: -1rem;
+}
+div {
+    padding-left: 2rem;
+    padding-right: 1rem;
+    margin: 0rem;
+    width: 20rem;
+    text-align: center;
+}
+.sec2 {
+    padding-top: 0;
+    text-align: justify;
+    border: 4px;
+    border-style: solid ;
+    border-color:  rgb(149, 151, 155);
+    margin: 0;
+    width: 15rem;
+    margin-top: -1.3rem;
+}
+img {
+    margin-left: 70rem;
+    margin-top: -4rem;
+}
+.b {
+    margin-top: -5rem;
+}
+.h {
+    margin-left: 3rem;
+    font-size: 1.2rem;
+}
